@@ -1,8 +1,8 @@
 # sc2bot
 SC2Bot Git Backup
 # How to use?
-Follow the instructions of Deepmind - pysc2
-Put the agent file in the "agent" directory
+Install the Deepmind Pysc2(https://github.com/deepmind/pysc2)
+Run the script
 # Agent Introduction
-The name means could beat different level computers. 
-To be continue...
+1. Very_easy_rush.py
+Can beat very easy level computer. Hardcode rush.
