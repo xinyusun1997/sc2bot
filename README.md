@@ -6,3 +6,5 @@ Run the script
 # Agent Introduction
 1. Very_easy_rush.py    
 Can beat very easy level computer. Hardcode rush.
+
+Test git on Ubuntu
